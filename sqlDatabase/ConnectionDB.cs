@@ -12,6 +12,7 @@
         public int MyProperty2 { get; set; } //Commit All - Thất bại
         public int MyProperty3 { get; set; } //Commit All and Push - Thành công
         public int MyProperty4 { get; set; } //Commit All and Sync
-        public int Hello { get; set; } //Load về Pull
+        public int Hello { get; set; } //Load về Pull Thành công
+        public int World { get; set; } //Load về Fetch
     }
 }
