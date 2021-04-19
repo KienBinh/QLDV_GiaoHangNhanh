@@ -4,6 +4,8 @@ GO
 USE HeThong_QLDV_GiaoHangNhanh
 GO
 
+-- Hello world
+
 CREATE TABLE TAIKHOAN
 (
 	TenDangNhap NVARCHAR(30) PRIMARY KEY NOT NULL, --Mã hoặc tên nhân viên
