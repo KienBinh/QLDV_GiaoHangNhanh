@@ -9,6 +9,7 @@
         // Hello world
         public int MyProperty { get; set; }
         public int MyProperty1 { get; set; }
-        public int MyProperty2 { get; set; } //Commit All
+        public int MyProperty2 { get; set; } //Commit All - Thất bại
+        public int MyProperty3 { get; set; } //Commit All and Push
     }
 }
