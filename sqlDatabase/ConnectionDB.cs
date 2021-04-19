@@ -7,5 +7,6 @@
                                         Integrated Security = True";
 
         // Hello world
+        public int MyProperty { get; set; }
     }
 }
