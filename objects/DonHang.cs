@@ -2,7 +2,7 @@
 using System.Data;
 
 namespace HeThongQLDVGiaoHangNhanh.objects
-{
+{//yg76yfgy7ghu
     class DonHang
     {
         public DonHang(DataRow row)
